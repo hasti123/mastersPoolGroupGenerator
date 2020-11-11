@@ -1,0 +1,502 @@
+{
+  "groupA": [
+    {
+      "name": "Dustin Johnson",
+      "GWR": 3,
+      "OWGR": 1
+    },
+    {
+      "name": "Jon Rahm",
+      "GWR": 1,
+      "OWGR": 2
+    },
+    {
+      "name": "Justin Thomas",
+      "GWR": 6,
+      "OWGR": 3
+    },
+    {
+      "name": "Collin Morikawa",
+      "GWR": 20,
+      "OWGR": 4
+    },
+    {
+      "name": "Rory McIlroy",
+      "GWR": 5,
+      "OWGR": 5
+    },
+    {
+      "name": "Bryson DeChambeau",
+      "GWR": 8,
+      "OWGR": 6
+    },
+    {
+      "name": "Webb Simpson",
+      "GWR": 7,
+      "OWGR": 7
+    },
+    {
+      "name": "Xander Schauffele",
+      "GWR": 2,
+      "OWGR": 8
+    },
+    {
+      "name": "Tyrrell Hatton",
+      "GWR": 12,
+      "OWGR": 9
+    },
+    {
+      "name": "Patrick Cantlay",
+      "GWR": 9,
+      "OWGR": 10
+    },
+    {
+      "name": "Patrick Reed",
+      "GWR": 14,
+      "OWGR": 11
+    },
+    {
+      "name": "Brooks Koepka",
+      "GWR": 62,
+      "OWGR": 12
+    }
+  ],
+  "groupB": [
+    {
+      "name": "Daniel Berger",
+      "GWR": 13,
+      "OWGR": 13
+    },
+    {
+      "name": "Matthew Wolff",
+      "GWR": 28,
+      "OWGR": 14
+    },
+    {
+      "name": "Adam Scott",
+      "GWR": 29,
+      "OWGR": 15
+    },
+    {
+      "name": "Tommy Fleetwood",
+      "GWR": 31,
+      "OWGR": 16
+    },
+    {
+      "name": "Tony Finau",
+      "GWR": 15,
+      "OWGR": 17
+    },
+    {
+      "name": "Hideki Matsuyama",
+      "GWR": 19,
+      "OWGR": 18
+    },
+    {
+      "name": "Louis Oosthuizen",
+      "GWR": 18,
+      "OWGR": 19
+    },
+    {
+      "name": "Matthew Fitzpatrick",
+      "GWR": 21,
+      "OWGR": 20
+    },
+    {
+      "name": "Abraham Ancer",
+      "GWR": 13,
+      "OWGR": 21
+    },
+    {
+      "name": "Paul Casey",
+      "GWR": 45,
+      "OWGR": 22
+    },
+    {
+      "name": "Viktor Hovland",
+      "GWR": 23,
+      "OWGR": 23
+    },
+    {
+      "name": "Jason Kokrak",
+      "GWR": 58,
+      "OWGR": 24
+    }
+  ],
+  "groupC": [
+    {
+      "name": "Sungjae Im",
+      "GWR": 23,
+      "OWGR": 25
+    },
+    {
+      "name": "Marc Leischman",
+      "GWR": 159,
+      "OWGR": 26
+    },
+    {
+      "name": "Shane Lowry",
+      "GWR": 115,
+      "OWGR": 27
+    },
+    {
+      "name": "Justin Rose",
+      "GWR": 107,
+      "OWGR": 28
+    },
+    {
+      "name": "Matt Kuchar",
+      "GWR": 35,
+      "OWGR": 29
+    },
+    {
+      "name": "Scottie Scheffler",
+      "GWR": 30,
+      "OWGR": 30
+    },
+    {
+      "name": "Ryan Palmer",
+      "GWR": 31,
+      "OWGR": 31
+    },
+    {
+      "name": "Gary Woodland",
+      "GWR": 46,
+      "OWGR": 32
+    },
+    {
+      "name": "Tiger Woods",
+      "GWR": 59,
+      "OWGR": 33
+    },
+    {
+      "name": "Kevin Kisner",
+      "GWR": 47,
+      "OWGR": 34
+    },
+    {
+      "name": "Harris English",
+      "GWR": 35,
+      "OWGR": 35
+    },
+    {
+      "name": "Victor Perez",
+      "GWR": 198,
+      "OWGR": 36
+    }
+  ],
+  "groupD": [
+    {
+      "name": "Bernd Wiesberger",
+      "GWR": 110,
+      "OWGR": 37
+    },
+    {
+      "name": "Kevin Na",
+      "GWR": 51,
+      "OWGR": 38
+    },
+    {
+      "name": "Billy Horschel",
+      "GWR": 34,
+      "OWGR": 39
+    },
+    {
+      "name": "Jason Day",
+      "GWR": 89,
+      "OWGR": 41
+    },
+    {
+      "name": "Joaquin Niemann",
+      "GWR": 42,
+      "OWGR": 42
+    },
+    {
+      "name": "Brendon Todd",
+      "GWR": 36,
+      "OWGR": 43
+    },
+    {
+      "name": "Bubba Watson",
+      "GWR": 43,
+      "OWGR": 44
+    },
+    {
+      "name": "Cameron Smith",
+      "GWR": 53,
+      "OWGR": 45
+    },
+    {
+      "name": "Rickie Fowler",
+      "GWR": 84,
+      "OWGR": 46
+    },
+    {
+      "name": "Lee Westwood",
+      "GWR": 52,
+      "OWGR": 47
+    },
+    {
+      "name": "Mackenzie Hughes",
+      "GWR": 48,
+      "OWGR": 48
+    },
+    {
+      "name": "Ian Poulter",
+      "GWR": 25,
+      "OWGR": 49
+    }
+  ],
+  "restOfField": [
+    {
+      "name": "Zach Johnson",
+      "GWR": 16,
+      "OWGR": 125
+    },
+    {
+      "name": "Adam Hadwin",
+      "GWR": 33,
+      "OWGR": 72
+    },
+    {
+      "name": "Chez Reavie",
+      "GWR": 48,
+      "OWGR": 52
+    },
+    {
+      "name": "Si Woo Kim",
+      "GWR": 61,
+      "OWGR": 93
+    },
+    {
+      "name": "Sebastian Munoz",
+      "GWR": 63,
+      "OWGR": 61
+    },
+    {
+      "name": "JT Poston",
+      "GWR": 65,
+      "OWGR": 63
+    },
+    {
+      "name": "Lanto Griffin",
+      "GWR": 70,
+      "OWGR": 55
+    },
+    {
+      "name": "Tyler Duncan",
+      "GWR": 85,
+      "OWGR": 143
+    },
+    {
+      "name": "Corey Conners",
+      "GWR": 86,
+      "OWGR": 68
+    },
+    {
+      "name": "Dylan Frittelli",
+      "GWR": 88,
+      "OWGR": 100
+    },
+    {
+      "name": "Cameron Champ",
+      "GWR": 95,
+      "OWGR": 74
+    },
+    {
+      "name": "Jordan Spieth",
+      "GWR": 99,
+      "OWGR": 80
+    },
+    {
+      "name": "Matt Wallace",
+      "GWR": 105,
+      "OWGR": 52
+    },
+    {
+      "name": "Charles Howell III",
+      "GWR": 106,
+      "OWGR": 103
+    },
+    {
+      "name": "Erik van Rooyen",
+      "GWR": 108,
+      "OWGR": 50
+    },
+    {
+      "name": "Christiaan Bezuidenhout",
+      "GWR": 112,
+      "OWGR": 59
+    },
+    {
+      "name": "Max Homa",
+      "GWR": 121,
+      "OWGR": 97
+    },
+    {
+      "name": "Phil Mickelson",
+      "GWR": 129,
+      "OWGR": 64
+    },
+    {
+      "name": "Lucas Glover",
+      "GWR": 132,
+      "OWGR": 119
+    },
+    {
+      "name": "Andrew Landry",
+      "GWR": 134,
+      "OWGR": 135
+    },
+    {
+      "name": "Brandt Snedeker",
+      "GWR": 150,
+      "OWGR": 89
+    },
+    {
+      "name": "Byeong Hun An",
+      "GWR": 153,
+      "OWGR": 67
+    },
+    {
+      "name": "Charl Schwartzel",
+      "GWR": 166,
+      "OWGR": 217
+    },
+    {
+      "name": "Henrik Stenson",
+      "GWR": 172,
+      "OWGR": 54
+    },
+    {
+      "name": "CT Pan",
+      "GWR": 173,
+      "OWGR": 176
+    },
+    {
+      "name": "Nick Taylor",
+      "GWR": 195,
+      "OWGR": 130
+    },
+    {
+      "name": "Rafa Cabrera Bello",
+      "GWR": 217,
+      "OWGR": 88
+    },
+    {
+      "name": "Justin Harding",
+      "GWR": 232,
+      "OWGR": 133
+    },
+    {
+      "name": "Andrew Putnam",
+      "GWR": 244,
+      "OWGR": 161
+    },
+    {
+      "name": "Nate Lashley",
+      "GWR": 264,
+      "OWGR": 116
+    },
+    {
+      "name": "Danny Willett",
+      "GWR": 273,
+      "OWGR": 57
+    },
+    {
+      "name": "Shugo Imahira",
+      "GWR": 296,
+      "OWGR": 75
+    },
+    {
+      "name": "Jimmy Walker",
+      "GWR": 309,
+      "OWGR": 407
+    },
+    {
+      "name": "Graeme McDowell",
+      "GWR": 315,
+      "OWGR": 66
+    },
+    {
+      "name": "Jazz Janewattananond",
+      "GWR": 329,
+      "OWGR": 73
+    },
+    {
+      "name": "Sung Kang",
+      "GWR": 325,
+      "OWGR": 999
+    },
+    {
+      "name": "Vijay Singh",
+      "GWR": 524,
+      "OWGR": 1093
+    },
+    {
+      "name": "Francesco Molinari",
+      "GWR": 549,
+      "OWGR": 85
+    },
+    {
+      "name": "Mike Weir",
+      "GWR": 635,
+      "OWGR": 1557
+    },
+    {
+      "name": "John Augenstein",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Fred Couples",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Abel Gallegos",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Bernhard Langer",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Yuxen Lin",
+      "GWR": 9999,
+      "OWGR": 1088
+    },
+    {
+      "name": "Sandy Lyle",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Lukas Michel",
+      "GWR": 9999,
+      "OWGR": 1440
+    },
+    {
+      "name": "Larry Mize",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "Andy Ogletree",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "José María Olazábal",
+      "GWR": 9999,
+      "OWGR": 1938
+    },
+    {
+      "name": "James Sugrue",
+      "GWR": 9999,
+      "OWGR": 1938
+    }
+  ]
+}
