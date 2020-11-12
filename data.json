@@ -63,11 +63,6 @@
   ],
   "groupB": [
     {
-      "name": "Daniel Berger",
-      "GWR": 13,
-      "OWGR": 13
-    },
-    {
       "name": "Matthew Wolff",
       "GWR": 28,
       "OWGR": 14
@@ -113,11 +108,6 @@
       "OWGR": 22
     },
     {
-      "name": "Viktor Hovland",
-      "GWR": 23,
-      "OWGR": 23
-    },
-    {
       "name": "Jason Kokrak",
       "GWR": 58,
       "OWGR": 24
@@ -155,11 +145,6 @@
       "OWGR": 30
     },
     {
-      "name": "Ryan Palmer",
-      "GWR": 31,
-      "OWGR": 31
-    },
-    {
       "name": "Gary Woodland",
       "GWR": 46,
       "OWGR": 32
@@ -173,11 +158,6 @@
       "name": "Kevin Kisner",
       "GWR": 47,
       "OWGR": 34
-    },
-    {
-      "name": "Harris English",
-      "GWR": 35,
-      "OWGR": 35
     },
     {
       "name": "Victor Perez",
